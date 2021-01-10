@@ -8,7 +8,10 @@
     "start": "node server",
     "server": "nodemon server",
     "data:import": "node seeder",
-    "data:delete": "node seeder -d"
+    "data:delete": "node seeder -d",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   },
   "author": "",
   "license": "ISC",
