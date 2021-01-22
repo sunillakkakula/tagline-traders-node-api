@@ -1,5 +1,5 @@
 {
-  "name": "ecom-mui-components-api-ver2",
+  "name": "tagline-traders-api",
   "version": "1.0.0",
   "description": "API for Ecomm Client",
   "main": "index.js",
@@ -8,10 +8,8 @@
     "start": "node server",
     "server": "nodemon server",
     "data:import": "node seeder",
-    "data:delete": "node seeder -d",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "data:delete": "node seeder -d"
+    
   },
   "author": "",
   "license": "ISC",
