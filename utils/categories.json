@@ -1,0 +1,97 @@
+ [{
+  "_id": {
+    "$oid": "600de426e6ad373aac4f1599"
+  },
+  "name": "Dals & Pulses",
+  "description": "Dals & Pulses",
+  "rootCategoryId": {
+    "$oid": "600ddecffc37ec23c85d7823"
+  },
+  "createdAt": {
+    "$date": "2021-01-24T21:18:30.905Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-24T21:23:48.443Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600df1bb24f4d639b8449054"
+  },
+  "name": "Ghee & Oils",
+  "description": "Ghee & Oils",
+  "rootCategoryId": {
+    "$oid": "600ddecffc37ec23c85d7823"
+  },
+  "createdAt": {
+    "$date": "2021-01-24T22:16:27.170Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-24T22:16:27.170Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600df1d624f4d639b8449055"
+  },
+  "name": "Atta & Flours",
+  "description": "Atta & Flours",
+  "rootCategoryId": {
+    "$oid": "600ddecffc37ec23c85d7823"
+  },
+  "createdAt": {
+    "$date": "2021-01-24T22:16:54.041Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-24T22:16:54.041Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600df26a24f4d639b844905a"
+  },
+  "name": "Biscuits",
+  "description": "Biscuits",
+  "rootCategoryId": {
+    "$oid": "600ddef7fc37ec23c85d7824"
+  },
+  "createdAt": {
+    "$date": "2021-01-24T22:19:22.774Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-24T22:19:22.774Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600df27f24f4d639b844905b"
+  },
+  "name": "Chips ,Namkeen & Snacks",
+  "description": "Chips ,Namkeen & Snacks",
+  "rootCategoryId": {
+    "$oid": "600ddef7fc37ec23c85d7824"
+  },
+  "createdAt": {
+    "$date": "2021-01-24T22:19:43.791Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-24T22:19:43.791Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600df28d24f4d639b844905c"
+  },
+  "name": "Tea",
+  "description": "Tea",
+  "rootCategoryId": {
+    "$oid": "600ddef7fc37ec23c85d7824"
+  },
+  "createdAt": {
+    "$date": "2021-01-24T22:19:57.675Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-24T22:19:57.675Z"
+  },
+  "__v": 0
+}]
