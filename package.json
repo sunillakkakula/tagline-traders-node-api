@@ -9,7 +9,6 @@
     "server": "nodemon server",
     "data:import": "node seeder",
     "data:delete": "node seeder -d"
-    
   },
   "author": "",
   "license": "ISC",
